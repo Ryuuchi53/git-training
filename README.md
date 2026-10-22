@@ -13,7 +13,7 @@
 | `git log` | Check log/history |
 | `git diif` | Compares your current working directory against the staging area (index). It shows changes you have made to tracked files but have not yet staged with `git add .` |
 
-:::mermaid
+::: mermaid
 graph TD;
     Stash-->Pull-->Add-->Commit-->Push;
 :::
