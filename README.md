@@ -1,4 +1,5 @@
 ![Custom Color](https://img.shields.io/badge/Version-v1.0-blueviolet)
+![Custom Color](https://img.shields.io/badge/Status-In_Progress-green)
 
 | Command | Meaning |
 | :--- | :--- |
